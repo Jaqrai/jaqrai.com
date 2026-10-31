@@ -8,7 +8,7 @@
 -->
 
 # Jaqrai.com
-_my internet home_
+_!Under Construction!_
 <!-- _Create a site or blog from your GitHub repositories with GitHub Pages._
 -->
 
@@ -21,7 +21,7 @@ _my internet home_
 
 <!-- ## Finish
 -->
-!Under Construction!
+
 
 <!-- <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 -->
