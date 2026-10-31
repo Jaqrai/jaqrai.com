@@ -7,8 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Jaqrai.com
-_!Under Construction!_
+# jaqrai.com
+Currently making my internet home :) 
 <!-- _Create a site or blog from your GitHub repositories with GitHub Pages._
 -->
 
