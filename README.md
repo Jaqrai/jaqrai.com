@@ -8,7 +8,7 @@
 -->
 
 # Jaqrai.com
-_//My internet home//_
+_my internet home_
 <!-- _Create a site or blog from your GitHub repositories with GitHub Pages._
 -->
 
@@ -39,6 +39,6 @@ _//My internet home//_
 
 ---
 
-Get help: [jaqrai](https://www.jaqrai.com)
+[jaqrai](https://www.jaqrai.com)
 
 </footer>
